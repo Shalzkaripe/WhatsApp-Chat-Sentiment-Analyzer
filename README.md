@@ -1,5 +1,5 @@
 
-# Whatsapp Chat Sentiment Analyzer
+# Whatsapp chat sentiment analyzer
 
 If you're seeking a tool that goes beyond identifying the most positive user in your then, This WhatsApp Chat Sentiment Analyzer provides insights not only on individual positivity but also on the overall sentiment of the group.
 
